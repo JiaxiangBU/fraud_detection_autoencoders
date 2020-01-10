@@ -17,6 +17,11 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of fraud_detection_autoencoders is to ...
+```{r message=FALSE, warning=FALSE, include=FALSE}
+devtools::load_all()
+```
+
+
+The goal of fraud_detection_autoencoders is to `r pkg_func`.
 
 `r add2pkg::add_disclaimer("Jiaxiang Li")`
