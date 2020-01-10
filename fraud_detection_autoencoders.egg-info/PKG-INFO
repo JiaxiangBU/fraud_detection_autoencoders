@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fraud-detection-autoencoders
-Version: 1.0.0
+Version: 1.0.1
 Summary: Use autoencoders to detect fraud samples.
 Home-page: https://github.com/JiaxiangBU/fraud_detection_autoencoders
 Author: Jiaxiang Li
@@ -17,40 +17,18 @@ Description:
         
         -->
         
-        # Project name here
+        # fraud_detection_autoencoders
         
-        > Summary description here.
+        > The goal of fraud_detection_autoencoders is to use autoencoders to detect fraud samples..
         
-        
-        This file will become your README and also the index of your documentation.
         
         ## Install
         
-        `pip install your_project_name`
+        `pip install fraud_detection_autoencoders`
         
         ## How to use
         
-        Fill me in please! Don't forget code examples:
-        <div class="codecell" markdown="1">
-        <div class="input_area" markdown="1">
-        
-        ```
-        1+1
-        ```
-        
-        </div>
-        <div class="output_area" markdown="1">
-        
-        
-        
-        
-            2
-        
-        
-        
-        </div>
-        
-        </div>
+        See demo https://jiaxiangbu.github.io/fraud_detection_autoencoders/
         
 Keywords: autoencoder fraud
 Platform: UNKNOWN
