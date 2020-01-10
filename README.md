@@ -11,7 +11,7 @@
 
 # fraud_detection_autoencoders
 
-> The goal of fraud_detection_autoencoders is to use autoencoders to detect fraud samples..
+> The goal of fraud_detection_autoencoders is to use autoencoders to detect fraud samples.
 
 
 ## Install
